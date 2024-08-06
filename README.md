@@ -1,15 +1,8 @@
-Project Structure
-OpenAPI Specification
-Linting and Formatting
-Pre-commit Hooks
-CI/CD Pipeline
-Branch Protection
-Security Best Practices
-Database Setup
-Authentication with OAuth and JWT
-Testing Setup
-Deployment with Docker
-Monitoring and Logging
+# Node.js API Starter
+
+A comprehensive starter project for building a Node.js API with TypeScript, Express, PostgreSQL, MongoDB, OAuth, JWT, Docker, and GitHub Actions. This project includes best practices for structure, security, CI/CD, and more.
+
+## Project Structure
 
 ```lua
 node-api-starter/
